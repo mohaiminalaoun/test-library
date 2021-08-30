@@ -10,6 +10,7 @@ import { Component, OnInit } from '@angular/core';
       add item-3 content
       add item-4 content
       add update 1
+      add update 2
     </p>
   `,
   styles: [

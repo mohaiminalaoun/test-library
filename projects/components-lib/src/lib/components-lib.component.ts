@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
     <p>
       components-lib works!
       add content
+      add item-2 content
     </p>
   `,
   styles: [

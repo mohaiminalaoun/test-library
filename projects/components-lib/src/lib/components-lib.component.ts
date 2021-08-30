@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
       components-lib works!
       add content
       add item-2 content
+      add item-3 content
       add item-4 content
     </p>
   `,
